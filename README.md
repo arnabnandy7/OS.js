@@ -38,4 +38,7 @@ Manuals, Tutorials and API documentation can be found on the [doc section](https
 
 [Author](http://andersevenrud.github.io/), [Community](http://community.os.js.org/), [YouTube](https://www.youtube.com/playlist?list=PLzC5Z5D-YLyEoYXWrxplUIek5uRyF92iG), [Twitter](https://twitter.com/andersevenrud), [Google+](https://plus.google.com/b/113399210633478618934/113399210633478618934), [Facebook](https://www.facebook.com/os.js.org), [Reddit](http://www.reddit.com/r/osjs), [OpenHub](https://www.openhub.net/p/OS_js), [Google Groups](https://groups.google.com/forum/#!forum/osjsplatform)
 
-<!-- GitAds-Verify: C3Y4M6XNXHNPLAPW62SMDIPOBQK49FY9 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/os.js@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/os.js@github)
+
+
